@@ -119,11 +119,7 @@ dkms remove appletbdrm-t1/1.0 --all     # uninstall
 ```
 
 ## Credits
-
-- Original `appletbdrm` driver by [Kerem Karabay](https://github.com/kekrby)
-- `tiny-dfr` daemon by [WhatAmISupposedToPutHere](https://github.com/WhatAmISupposedToPutHere/tiny-dfr)
-- [T2 Linux](https://t2linux.org/) project for the kernel and community support
-
+Alien LNU
 ## License
 
 Kernel module: GPL-2.0 (same as upstream `appletbdrm`)
